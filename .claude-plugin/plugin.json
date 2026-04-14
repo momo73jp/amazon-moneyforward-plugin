@@ -1,0 +1,8 @@
+{
+  "name": "amazon-moneyforward-sync",
+  "description": "Amazon.co.jpの購入履歴をマネーフォワードMEのメモ欄に自動記載するスキル",
+  "version": "1.0.0",
+  "author": {
+    "name": "なみ"
+  }
+}
